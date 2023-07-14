@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Webmounster Solution](https://github.com/Webmounster/Ping-coming-soon-page)
+-   Live Site URL: [Webmounster Live Site](https://webmounster.github.io/Ping-coming-soon-page/)
 
 ## My process
 
